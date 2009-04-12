@@ -1,0 +1,15 @@
+Telerik*.dll
+Telerik*.exe
+Telerik*.pdb
+Telerik*.xml
+VersionAssemblyInfo.cs
+Binaries
+bin
+obj
+TestResults
+*.suo
+*csproj.user
+.*.swp
+*.resharper*
+_ReSharper*
+
