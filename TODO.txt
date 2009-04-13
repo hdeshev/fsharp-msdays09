@@ -1,0 +1,46 @@
+﻿What is F#
+	History, Don Syme
+	No common ancestry with C! No matter how far back you go.
+
+Functional - 
+	avoid side effects!
+	Mutation is a side effect
+	Same input -> Same output
+	No shared state - bad perf, deadlocks, security issues
+	*** No variables - only functions (really?) Values/Symbols
+	immutable by default
+
+Why care about F#	
+	terse - do more with less code
+	higher order functions 
+	rapid prototyping/scripting
+	see where C#/VB are headed
+	language of the year
+	new ways to tackle complexity
+	a worthy functional language that will help you achieve enlightenment and become a better programmer even if you never use it professionally
+
+Basics
+	#light
+	let - value declarations
+	mutable - avoid. mutables invisible in closures
+	Seq
+	|> pipe operator
+	currying
+	recursion
+	pattern matching
+
+Applications of F#
+	computationally intensive work
+	complex algorithms
+	multithreaded apps
+	distributed algorithms: Map/Reduce
+	data mining
+	Financial analysis
+	Web tools: compile F# to JavaScript
+
+Code
+	static types: type inference
+	let bindings generate functions
+
+Resources
+	Expert F#
