@@ -6,7 +6,7 @@
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{3a9bdfba-af0a-4646-bda7-0c5b64bcf5ff}</ProjectGuid>
-    <OutputType>Exe</OutputType>
+    <OutputType>WinExe</OutputType>
     <RootNamespace>ObjectOriented</RootNamespace>
     <AssemblyName>ObjectOriented</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
