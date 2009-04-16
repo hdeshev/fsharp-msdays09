@@ -29,11 +29,11 @@ printfn "%A" (List.map sum [0; 1; 2; 3; 4; 5; 6])
 //printfn "%d" (sum 100000)
 
 let sumTail x =
-    let rec sumAccumulator accumulator x =
+    let rec sumWithAccumulator accumulator x =
         if x = 0 then
             accumulator
         else
-            sumAccumulator (accumulator + x) (x - 1)
-    sumAccumulator 0 x
+            sumWithAccumulator (accumulator + x) (x - 1)
+    sumWithAccumulator 0 x
             
 printfn "%d" (sumTail 100000)
