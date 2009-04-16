@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Primitives", "Primitives.fsproj", "{A9E53AD1-5DEE-4FCA-A0E0-44AE8EC9F775}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Basics", "Basics.fsproj", "{A9E53AD1-5DEE-4FCA-A0E0-44AE8EC9F775}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
